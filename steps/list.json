@@ -1,0 +1,74 @@
+[
+    {
+        "uri": "01cover.html",
+        "id": "cover",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        },
+        "next": "requirement"
+    },
+    {
+        "uri": "02requirement.html",
+        "id": "requirement",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": 500,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": -90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        },
+        "next": "division"
+    },{
+        "uri": "021eTool.html",
+        "id": "eTool",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": -500,
+            "z": -500,
+            "scale": 1,
+            "rotate-x": -90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        },
+        "next": "requirement"
+    },
+    {
+        "uri": "03division.html",
+        "id": "division",
+        "class": "step",
+        "data": {
+            "x": 1500,
+            "y": 0,
+            "z": -1100,
+            "scale": 1,
+            "rotate-x": -180,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "33ejiayy.html",
+        "id": "ejiayy",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
